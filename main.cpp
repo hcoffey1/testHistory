@@ -15,5 +15,6 @@ int main()
 
 int add(int x,int y)
 {
+    printf("Adding values\n")
     return x + y;
 }
