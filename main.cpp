@@ -11,7 +11,8 @@ int main()
     //Change one
     printf("A python file was adde!\n")
 
-        return 0;
+    //Return 0.
+    return 0;
 }
 
 int add(int x,int y)
