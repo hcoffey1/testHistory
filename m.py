@@ -3,3 +3,4 @@ def add(x,y):
 
 print("Hello world from Python!")
 print(add(3,2))
+print(add(2,3))
